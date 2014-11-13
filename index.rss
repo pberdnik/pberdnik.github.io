@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mike Bostock</title>
+    <link>http://bost.ocks.org/mike/</link>
+    <atom:link href="http://bost.ocks.org/mike/index.rss" rel="self" type="application/rss+xml" />
+    <description>Mike Bostock</description>
+    <pubDate>3 Nov 2014 9:00 GMT</pubDate>
+    <lastBuildDate>3 Nov 2014 9:00 GMT</lastBuildDate>
+    <item>
+      <title>How To Scroll</title>
+      <link>http://bost.ocks.org/mike/scroll/</link>
+      <description><![CDATA[<a href="http://bost.ocks.org/mike/scroll/"><img src="http://bost.ocks.org/mike/scroll.png"></a>]]></description>
+      <pubDate>3 Nov 2014 9:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>‘Stop-and-Frisk’ Is All but Gone From New York</title>
+      <link>http://www.nytimes.com/interactive/2014/09/19/nyregion/stop-and-frisk-is-all-but-gone-from-new-york.html</link>
+      <description><![CDATA[<a href="http://www.nytimes.com/interactive/2014/09/19/nyregion/stop-and-frisk-is-all-but-gone-from-new-york.html"><img src="http://bost.ocks.org/mike/stop-frisk.png"></a>]]></description>
+      <pubDate>19 Sep 2014 12:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mapping the Spread of Drought Across the U.S.</title>
+      <link>http://www.nytimes.com/interactive/2014/upshot/mapping-the-spread-of-drought-across-the-us.html</link>
+      <description><![CDATA[<a href="http://www.nytimes.com/interactive/2014/upshot/mapping-the-spread-of-drought-across-the-us.html"><img src="http://bost.ocks.org/mike/drought-updater.png"></a>]]></description>
+      <pubDate>26 Jul 2014 12:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Visualizing Algorithms</title>
+      <link>http://bost.ocks.org/mike/algorithms/</link>
+      <description><![CDATA[<a href="http://bost.ocks.org/mike/algorithms/"><img src="http://bost.ocks.org/mike/algorithms.png"></a>]]></description>
+      <pubDate>26 Jun 2014 12:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Three Little Circles</title>
+      <link>http://bost.ocks.org/mike/circles/</link>
+      <description><![CDATA[<a href="http://bost.ocks.org/mike/circles/"><img src="http://bost.ocks.org/mike/circle.png"></a>]]></description>
+      <pubDate>15 Jun 2014 21:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Is It Better to Rent or Buy?</title>
+      <link>http://www.nytimes.com/interactive/2014/upshot/buy-rent-calculator.html</link>
+      <description><![CDATA[<a href="http://www.nytimes.com/interactive/2014/upshot/buy-rent-calculator.html"><img src="http://bost.ocks.org/mike/rent-vs-buy.png" width="720" height="80"></a>]]></description>
+      <pubDate>22 May 2014 19:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Let’s Make a Bubble Map</title>
+      <link>http://bost.ocks.org/mike/bubble-map/</link>
+      <description><![CDATA[<a href="http://bost.ocks.org/mike/bubble-map/"><img src="http://bost.ocks.org/mike/bubble-map.png" width="720" height="80"></a>]]></description>
+      <pubDate>06 May 2014 21:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Who Will Win The Senate?</title>
+      <link>http://www.nytimes.com/newsgraphics/2014/senate-model/</link>
+      <description><![CDATA[<a href="http://www.nytimes.com/newsgraphics/2014/senate-model/"><img src="http://bost.ocks.org/mike/leo.png" width="720" height="80"></a>]]></description>
+      <pubDate>22 Apr 2014 12:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Let’s Make a Block</title>
+      <link>http://bost.ocks.org/mike/block/</link>
+      <description><![CDATA[<a href="http://bost.ocks.org/mike/block/"><img src="http://bost.ocks.org/mike/block.png" width="720" height="80"></a>]]></description>
+      <pubDate>07 Mar 2014 12:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sochi 2014: Interactive Stories</title>
+      <link>http://www.nytimes.com/interactive/2014/02/11/sports/sochi-2014-interactive-stories.html</link>
+      <description><![CDATA[<a href="http://www.nytimes.com/interactive/2014/02/11/sports/sochi-2014-interactive-stories.html"><img src="http://bost.ocks.org/mike/sochi.png" width="720" height="80"></a>]]></description>
+      <pubDate>14 Feb 2013 12:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Taking the Battle to the States</title>
+      <link>http://www.nytimes.com/interactive/2014/01/11/us/politics/who-controls-the-states-and-where-they-stand.html</link>
+      <description><![CDATA[<a href="http://www.nytimes.com/interactive/2014/01/11/us/politics/who-controls-the-states-and-where-they-stand.html"><img src="http://bost.ocks.org/mike/state-control.png" width="720" height="80"></a>]]></description>
+      <pubDate>11 Jan 2013 12:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tracing the History of N.C.A.A. Conferences</title>
+      <link>http://www.nytimes.com/newsgraphics/2013/11/30/football-conferences/</link>
+      <description><![CDATA[<a href="http://www.nytimes.com/newsgraphics/2013/11/30/football-conferences/"><img src="http://bost.ocks.org/mike/ncaa.png" width="720" height="80"></a>]]></description>
+      <pubDate>30 Nov 2013 10:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Let’s Make a Bar Chart, III</title>
+      <link>http://bost.ocks.org/mike/bar/3/</link>
+      <description><![CDATA[<a href="http://bost.ocks.org/mike/bar/3/"><img src="http://bost.ocks.org/mike/bar.png" width="720" height="80"></a>]]></description>
+      <pubDate>19 Nov 2013 09:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Let’s Make a Bar Chart, II</title>
+      <link>http://bost.ocks.org/mike/bar/2/</link>
+      <description><![CDATA[<a href="http://bost.ocks.org/mike/bar/2/"><img src="http://bost.ocks.org/mike/bar.png" width="720" height="80"></a>]]></description>
+      <pubDate>6 Nov 2013 13:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Let’s Make a Bar Chart</title>
+      <link>http://bost.ocks.org/mike/bar/</link>
+      <description><![CDATA[<a href="http://bost.ocks.org/mike/bar/"><img src="http://bost.ocks.org/mike/bar.png" width="720" height="80"></a>]]></description>
+      <pubDate>5 Nov 2013 09:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A Game of Shark and Minnow</title>
+      <link>http://www.nytimes.com/newsgraphics/2013/10/27/south-china-sea/</link>
+      <description><![CDATA[<a href="http://www.nytimes.com/newsgraphics/2013/10/27/south-china-sea/"><img src="http://bost.ocks.org/mike/south-china-sea.png" width="720" height="80"></a>]]></description>
+      <pubDate>27 Oct 2013 12:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Russia Left Behind</title>
+      <link>http://www.nytimes.com/newsgraphics/2013/10/13/russia/</link>
+      <description><![CDATA[<a href="http://www.nytimes.com/newsgraphics/2013/10/13/russia/"><img src="http://bost.ocks.org/mike/russia.png" width="720" height="80"></a>]]></description>
+      <pubDate>14 Oct 2013 23:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>For Eli Manning, 150 Games and Counting</title>
+      <link>http://www.nytimes.com/newsgraphics/2013/09/28/eli-manning-milestone/</link>
+      <description><![CDATA[<a href="http://www.nytimes.com/newsgraphics/2013/09/28/eli-manning-milestone/"><img src="http://bost.ocks.org/mike/nfl-starters.png" width="720" height="80"></a>]]></description>
+      <pubDate>29 Sep 2013 12:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Oracle’s Path to Victory</title>
+      <link>http://www.nytimes.com/interactive/2013/09/25/sports/americas-cup-course.html</link>
+      <description><![CDATA[<a href="http://www.nytimes.com/interactive/2013/09/25/sports/americas-cup-course.html"><img src="http://bost.ocks.org/mike/americas-cup-course.png" width="720" height="80"></a>]]></description>
+      <pubDate>25 Sep 2013 12:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>State-by-State Premiums Under the Health Care Law</title>
+      <link>http://www.nytimes.com/interactive/2013/09/24/us/health-care-premiums.html</link>
+      <description><![CDATA[<a href="http://www.nytimes.com/interactive/2013/09/24/us/health-care-premiums.html"><img src="http://bost.ocks.org/mike/health-care-premiums.png" width="720" height="80"></a>]]></description>
+      <pubDate>25 Sep 2013 12:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>Front Row to Fashion Week</title>
+      <link>http://www.nytimes.com/newsgraphics/2013/09/13/fashion-week-editors-picks/</link>
+      <description><![CDATA[<a href="http://www.nytimes.com/newsgraphics/2013/09/13/fashion-week-editors-picks/"><img src="http://bost.ocks.org/mike/dresses.png" width="720" height="80"></a>]]></description>
+      <pubDate>13 Sep 2013 10:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Constellations of Directors and Their Stars</title>
+      <link>http://www.nytimes.com/newsgraphics/2013/09/07/director-star-chart/</link>
+      <description><![CDATA[<a href="http://www.nytimes.com/newsgraphics/2013/09/07/director-star-chart/"><img src="http://bost.ocks.org/mike/director-constellations.png" width="720" height="80"></a>]]></description>
+      <pubDate>06 Sep 2013 17:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>How To Infer Topology</title>
+      <link>http://bost.ocks.org/mike/topology/</link>
+      <description><![CDATA[<a href="http://bost.ocks.org/mike/topology/"><img src="http://bost.ocks.org/mike/topology.png" width="720" height="80"></a>]]></description>
+      <pubDate>02 Sep 2013 01:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>For Yankees, Little Bang for Their Buck</title>
+      <link>http://www.nytimes.com/interactive/2013/08/02/sports/baseball/bang-for-your-buck.html</link>
+      <description><![CDATA[<a href="http://www.nytimes.com/interactive/2013/08/02/sports/baseball/bang-for-your-buck.html"><img src="http://bost.ocks.org/mike/bang-for-your-buck.png" width="720" height="80"></a>]]></description>
+      <pubDate>02 Aug 2013 13:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>For Example</title>
+      <link>http://bost.ocks.org/mike/example/</link>
+      <description><![CDATA[<a href="http://bost.ocks.org/mike/example/"><img src="http://bost.ocks.org/mike/example.png" width="720" height="80"></a>]]></description>
+      <pubDate>09 Jun 2013 11:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Across U.S. Companies, Tax Rates Vary Greatly</title>
+      <link>http://www.nytimes.com/interactive/2013/05/25/sunday-review/corporate-taxes.html</link>
+      <description><![CDATA[<a href="http://www.nytimes.com/interactive/2013/05/25/sunday-review/corporate-taxes.html"><img src="http://bost.ocks.org/mike/corporate-taxes.png" width="720" height="80"></a>]]></description>
+      <pubDate>25 May 2013 21:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>How Selections Work</title>
+      <link>http://bost.ocks.org/mike/selection/</link>
+      <description><![CDATA[<a href="http://bost.ocks.org/mike/selection/"><img src="http://bost.ocks.org/mike/selection.png" width="720" height="80"></a>]]></description>
+      <pubDate>26 Apr 2013 17:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>N.F.L. Draft: How Good Are Teams at Picking the Best?</title>
+      <link>http://www.nytimes.com/interactive/2013/04/25/sports/football/picking-the-best-in-the-nfl-draft.html</link>
+      <description><![CDATA[<a href="http://www.nytimes.com/interactive/2013/04/25/sports/football/picking-the-best-in-the-nfl-draft.html"><img src="http://bost.ocks.org/mike/nfl-draft.png" width="720" height="80"></a>]]></description>
+      <pubDate>25 Apr 2013 14:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>China Still Dominates, but Some Manufacturers Look Elsewhere</title>
+      <link>http://www.nytimes.com/interactive/2013/04/08/business/global/asia-map.html</link>
+      <description><![CDATA[<a href="http://www.nytimes.com/interactive/2013/04/08/business/global/asia-map.html"><img src="http://bost.ocks.org/mike/asia-cartogram.png" width="720" height="80"></a>]]></description>
+      <pubDate>08 Apr 2013 21:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Increased Border Enforcement, With Varying Results</title>
+      <link>http://www.nytimes.com/interactive/2013/03/01/world/americas/border-graphic.html</link>
+      <description><![CDATA[<a href="http://www.nytimes.com/interactive/2013/03/01/world/americas/border-graphic.html"><img src="http://bost.ocks.org/mike/border.png" width="720" height="80"></a>]]></description>
+      <pubDate>02 Mar 2013 12:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Among the Oscar Contenders, a Host of Connections</title>
+      <link>http://www.nytimes.com/interactive/2013/02/20/movies/among-the-oscar-contenders-a-host-of-connections.html</link>
+      <description><![CDATA[<a href="http://www.nytimes.com/interactive/2013/02/20/movies/among-the-oscar-contenders-a-host-of-connections.html"><img src="http://bost.ocks.org/mike/oscar-network.png" width="720" height="80"></a>]]></description>
+      <pubDate>25 Feb 2013 17:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>Why Use Make</title>
+      <link>http://bost.ocks.org/mike/make/</link>
+      <description><![CDATA[<a href="http://bost.ocks.org/mike/make/"><img src="http://bost.ocks.org/mike/make.png" width="720" height="80"></a>]]></description>
+      <pubDate>24 Feb 2013 10:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A Chicago Divided by Killings</title>
+      <link>http://www.nytimes.com/interactive/2013/01/02/us/chicago-killings.html</link>
+      <description><![CDATA[<a href="http://www.nytimes.com/interactive/2013/01/02/us/chicago-killings.html"><img src="http://bost.ocks.org/mike/chicago-homicides.png" width="720" height="80"></a>]]></description>
+      <pubDate>03 Jan 2013 00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Let’s Make a Map</title>
+      <link>http://bost.ocks.org/mike/map/</link>
+      <description><![CDATA[<a href="http://bost.ocks.org/mike/map/"><img src="http://bost.ocks.org/mike/map.png" width="720" height="80"></a>]]></description>
+      <pubDate>30 Dec 2012 19:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>How the Tax Burden Has Changed</title>
+      <link>http://www.nytimes.com/interactive/2012/11/30/us/tax-burden.html</link>
+      <description><![CDATA[<a href="http://www.nytimes.com/interactive/2012/11/30/us/tax-burden.html"><img src="http://bost.ocks.org/mike/taxes.png" width="720" height="80"></a>]]></description>
+      <pubDate>04 Dec 2012 09:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Counties Blue and Red, Moving Right and Left</title>
+      <link>http://www.nytimes.com/interactive/2012/11/11/sunday-review/counties-moving.html</link>
+      <description><![CDATA[<a href="http://www.nytimes.com/interactive/2012/11/11/sunday-review/counties-moving.html"><img src="http://bost.ocks.org/mike/counties-moving.png" width="720" height="80"></a>]]></description>
+      <pubDate>13 Nov 2012 11:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>How Obama Won Re-election</title>
+      <link>http://www.nytimes.com/interactive/2012/11/07/us/politics/obamas-diverse-base-of-support.html</link>
+      <description><![CDATA[<a href="http://www.nytimes.com/interactive/2012/11/07/us/politics/obamas-diverse-base-of-support.html"><img src="http://bost.ocks.org/mike/reelection.png" width="720" height="80"></a>]]></description>
+      <pubDate>08 Nov 2012 14:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>512 Paths to the White House</title>
+      <link>http://www.nytimes.com/interactive/2012/11/02/us/politics/paths-to-the-white-house.html</link>
+      <description><![CDATA[<a href="http://www.nytimes.com/interactive/2012/11/02/us/politics/paths-to-the-white-house.html"><img src="http://bost.ocks.org/mike/512-paths.png" width="720" height="80"></a>]]></description>
+      <pubDate>03 Nov 2012 09:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wind Speeds Along Hurricane Sandy’s Path</title>
+      <link>http://www.nytimes.com/interactive/2012/10/29/us/windspeed.html</link>
+      <description><![CDATA[<a href="http://www.nytimes.com/interactive/2012/10/29/us/windspeed.html"><img src="http://bost.ocks.org/mike/sandy-windspeed.png" width="720" height="80"></a>]]></description>
+      <pubDate>01 Nov 2012 12:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Working with Transitions</title>
+      <link>http://bost.ocks.org/mike/transition/</link>
+      <description><![CDATA[<a href="http://bost.ocks.org/mike/transition/"><img src="http://bost.ocks.org/mike/transition.png" width="720" height="80"></a>]]></description>
+      <pubDate>24 Oct 2012 13:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Over the Decades, How States Have Shifted</title>
+      <link>http://www.nytimes.com/interactive/2012/10/15/us/politics/swing-history.html</link>
+      <description><![CDATA[<a href="http://www.nytimes.com/interactive/2012/10/15/us/politics/swing-history.html"><img src="http://bost.ocks.org/mike/swing-history.png" width="720" height="80"></a>]]></description>
+      <pubDate>14 Oct 2012 19:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A Faded Piece of Papyrus Refers to Jesus’ Wife</title>
+      <link>http://www.nytimes.com/2012/09/19/us/historian-says-piece-of-papyrus-refers-to-jesus-wife.html</link>
+      <description><![CDATA[<a href="http://www.nytimes.com/2012/09/19/us/historian-says-piece-of-papyrus-refers-to-jesus-wife.html"><img src="http://bost.ocks.org/mike/coptic-fragment.png" width="720" height="80"></a>]]></description>
+      <pubDate>18 Sep 2012 13:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>How the Chicago Public School District Compares</title>
+      <link>http://www.nytimes.com/interactive/2012/09/14/us/how-the-chicago-public-school-district-compares.html</link>
+      <description><![CDATA[<a href="http://www.nytimes.com/interactive/2012/09/14/us/how-the-chicago-public-school-district-compares.html"><img src="http://bost.ocks.org/mike/chicago-schools.png" width="720" height="80"></a>]]></description>
+      <pubDate>14 Sep 2012 00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>At the National Conventions, the Words They Used</title>
+      <link>http://www.nytimes.com/interactive/2012/09/06/us/politics/convention-word-counts.html</link>
+      <description><![CDATA[<a href="http://www.nytimes.com/interactive/2012/09/06/us/politics/convention-word-counts.html"><img src="http://bost.ocks.org/mike/convention-word-counts-split.png" width="720" height="80"></a>]]></description>
+      <pubDate>07 Sep 2012 09:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>At the Democratic Convention, the Words Being Used</title>
+      <link>http://www.nytimes.com/interactive/2012/09/04/us/politics/democratic-convention-words.html</link>
+      <description><![CDATA[<a href="http://www.nytimes.com/interactive/2012/09/04/us/politics/democratic-convention-words.html"><img src="http://bost.ocks.org/mike/convention-word-counts-dem.png" width="720" height="80"></a>]]></description>
+      <pubDate>04 Sep 2012 00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>At the Republican Convention, the Words Being Used</title>
+      <link>http://www.nytimes.com/interactive/2012/08/28/us/politics/convention-word-counts.html</link>
+      <description><![CDATA[<a href="http://www.nytimes.com/interactive/2012/08/28/us/politics/convention-word-counts.html"><img src="http://bost.ocks.org/mike/convention-word-counts.png" width="720" height="80"></a>]]></description>
+      <pubDate>28 Aug 2012 23:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Drought during Month</title>
+      <link>http://bost.ocks.org/mike/drought/</link>
+      <description><![CDATA[<a href="http://bost.ocks.org/mike/drought/"><img src="http://bost.ocks.org/mike/drought.png" width="720" height="80"></a>]]></description>
+      <pubDate>24 Aug 2012 15:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Drought Extends, Crops Wither</title>
+      <link>http://www.nytimes.com/interactive/2012/08/24/us/drought-crops.html</link>
+      <description><![CDATA[<a href="http://www.nytimes.com/interactive/2012/08/24/us/drought-crops.html"><img src="http://bost.ocks.org/mike/drought-crops.png" width="720" height="80"></a>]]></description>
+      <pubDate>24 Aug 2012 10:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Drought and Deluge in the Lower 48</title>
+      <link>http://www.nytimes.com/interactive/2012/08/11/sunday-review/drought-history.html</link>
+      <description><![CDATA[<a href="http://www.nytimes.com/interactive/2012/08/11/sunday-review/drought-history.html"><img src="http://bost.ocks.org/mike/drought-history.png" width="720" height="80"></a>]]></description>
+      <pubDate>10 Aug 2012 12:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Fisheye Distortion</title>
+      <link>http://bost.ocks.org/mike/fisheye/</link>
+      <description><![CDATA[<a href="http://bost.ocks.org/mike/fisheye/"><img src="http://bost.ocks.org/mike/fisheye.png"></a>]]></description>
+      <pubDate>21 Jun 2012 12:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>D3 + Leaflet</title>
+      <link>http://bost.ocks.org/mike/leaflet/</link>
+      <description><![CDATA[<a href="http://bost.ocks.org/mike/leaflet/"><img src="http://bost.ocks.org/mike/leaflet.png"></a>]]></description>
+      <pubDate>19 Jun 2012 11:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Zoomable Treemaps</title>
+      <link>http://bost.ocks.org/mike/treemap/</link>
+      <description><![CDATA[<a href="http://bost.ocks.org/mike/treemap/"><img src="http://bost.ocks.org/mike/treemap.png"></a>]]></description>
+      <pubDate>10 Jun 2012 20:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Line Simplification</title>
+      <link>http://bost.ocks.org/mike/simplify/</link>
+      <description><![CDATA[<a href="http://bost.ocks.org/mike/simplify/"><img src="http://bost.ocks.org/mike/simplify.png"></a>]]></description>
+      <pubDate>01 Jun 2012 12:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sankey Diagrams</title>
+      <link>http://bost.ocks.org/mike/sankey/</link>
+      <description><![CDATA[<a href="http://bost.ocks.org/mike/sankey/"><img src="http://bost.ocks.org/mike/sankey.png"></a>]]></description>
+      <pubDate>22 May 2012 20:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Object Constancy</title>
+      <link>http://bost.ocks.org/mike/constancy/</link>
+      <description><![CDATA[<a href="http://bost.ocks.org/mike/constancy/"><img src="http://bost.ocks.org/mike/constancy.png"></a>]]></description>
+      <pubDate>16 May 2012 22:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Time Series Visualization with Cubism.js</title>
+      <link>http://bost.ocks.org/mike/cubism/intro/</link>
+      <description><![CDATA[<a href="http://bost.ocks.org/mike/cubism/intro/"><img src="http://bost.ocks.org/mike/cubism-intro.png"></a>]]></description>
+      <pubDate>11 May 2012 16:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Nested Selections</title>
+      <link>http://bost.ocks.org/mike/nest/</link>
+      <description><![CDATA[<a href="http://bost.ocks.org/mike/nest/"><img src="http://bost.ocks.org/mike/nest.png"></a>]]></description>
+      <pubDate>08 Apr 2012 18:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hive Plots</title>
+      <link>http://bost.ocks.org/mike/hive/</link>
+      <description><![CDATA[<a href="http://bost.ocks.org/mike/hive/"><img src="http://bost.ocks.org/mike/hive.png"></a>]]></description>
+      <pubDate>18 Mar 2012 00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Wealth &amp; Health of Nations</title>
+      <link>http://bost.ocks.org/mike/nations/</link>
+      <description><![CDATA[<a href="http://bost.ocks.org/mike/nations/"><img src="http://bost.ocks.org/mike/nations.png"></a>]]></description>
+      <pubDate>13 Mar 2012 00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Towards Reusable Charts</title>
+      <link>http://bost.ocks.org/mike/chart/</link>
+      <description><![CDATA[<a href="http://bost.ocks.org/mike/chart/"><img src="http://bost.ocks.org/mike/chart.png"></a>]]></description>
+      <pubDate>27 Feb 2012 00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Thinking with Joins</title>
+      <link>http://bost.ocks.org/mike/join/</link>
+      <description><![CDATA[<a href="http://bost.ocks.org/mike/join/"><img src="http://bost.ocks.org/mike/join.png"></a>]]></description>
+      <pubDate>05 Feb 2012 00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Will It Shuffle?</title>
+      <link>http://bost.ocks.org/mike/shuffle/compare.html</link>
+      <description><![CDATA[<a href="http://bost.ocks.org/mike/shuffle/compare.html"><img src="http://bost.ocks.org/mike/shuffle-matrix.png"></a>]]></description>
+      <pubDate>21 Jan 2012 00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Path Transitions</title>
+      <link>http://bost.ocks.org/mike/path/</link>
+      <description><![CDATA[<a href="http://bost.ocks.org/mike/path/"><img src="http://bost.ocks.org/mike/path.png"></a>]]></description>
+      <pubDate>19 Jan 2012 00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Fisher–Yates Shuffle</title>
+      <link>http://bost.ocks.org/mike/shuffle/</link>
+      <description><![CDATA[<a href="http://bost.ocks.org/mike/shuffle/"><img src="http://bost.ocks.org/mike/shuffle.png"></a>]]></description>
+      <pubDate>14 Jan 2012 00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Les Misérables Co-occurrence</title>
+      <link>http://bost.ocks.org/mike/miserables/</link>
+      <description><![CDATA[<a href="http://bost.ocks.org/mike/miserables/"><img src="http://bost.ocks.org/mike/miserables.png"></a>]]></description>
+      <pubDate>12 Jan 2012 00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Uber Rides by Neighborhood</title>
+      <link>http://bost.ocks.org/mike/uberdata/</link>
+      <description><![CDATA[<a href="http://bost.ocks.org/mike/uberdata/"><img src="http://bost.ocks.org/mike/uberdata.png"></a>]]></description>
+      <pubDate>09 Jan 2012 00:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
