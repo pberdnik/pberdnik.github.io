@@ -1,0 +1,679 @@
+{
+    "appData": {
+        "catalogSettings": {
+            "tvGames": [
+                {
+                    "id": "138760",
+                    "appID": 138760,
+                    "media": {
+                        "cover": {
+                            "prefix-url": "https://avatars.mds.yandex.net/get-games/1890793/2a0000017b5e06e4c8440905f4429500d336/"
+                        }
+                    },
+                    "title": "Хулиганы на скейтах",
+                    "rating": 4.2,
+                    "developer": {
+                        "id": 17533,
+                        "name": "Gemioli"
+                    },
+                    "playersCount": 65000
+                },
+                {
+                    "id": "194082",
+                    "appID": 194082,
+                    "media": {
+                        "cover": {
+                            "prefix-url": "https://avatars.mds.yandex.net/get-games/1881957/2a00000182ad52c1b4c77589de3d46202db9/"
+                        }
+                    },
+                    "title": "Слова Онлайн",
+                    "developer": {
+                        "id": 2862,
+                        "name": "Indiesoft"
+                    },
+                    "playersCount": 100
+                },
+                {
+                    "id": "100182",
+                    "appID": 100182,
+                    "media": {
+                        "cover": {
+                            "prefix-url": "https://avatars.mds.yandex.net/get-games/1892995/2a0000017da416a127d1cc30e7323b4ce27e/"
+                        }
+                    },
+                    "title": "Угадай песню!",
+                    "rating": 4.6,
+                    "developer": {
+                        "id": 1225,
+                        "name": "AppyApp"
+                    },
+                    "playersCount": 10000
+                },
+                {
+                    "id": "96290",
+                    "appID": 96290,
+                    "media": {
+                        "cover": {
+                            "prefix-url": "https://avatars.mds.yandex.net/get-games/1881957/2a0000016990c4c2f5078e5cf4f75d549327/"
+                        }
+                    },
+                    "title": "2048 Пятнашки",
+                    "rating": 4,
+                    "developer": {
+                        "id": 1,
+                        "name": "Hezzl"
+                    },
+                    "playersCount": 590000
+                },
+                {
+                    "id": "100065",
+                    "appID": 100065,
+                    "media": {
+                        "cover": {
+                            "prefix-url": "https://avatars.mds.yandex.net/get-games/1890793/2a0000017c1895667c202b6c7e55335cecd8/"
+                        }
+                    },
+                    "title": "Миллионер - Викторина",
+                    "rating": 4.5,
+                    "developer": {
+                        "id": 1225,
+                        "name": "AppyApp"
+                    },
+                    "playersCount": 1000000
+                },
+                {
+                    "id": "97751",
+                    "appID": 97751,
+                    "media": {
+                        "cover": {
+                            "prefix-url": "https://avatars.mds.yandex.net/get-games/1881364/2a0000016c96dd84adbcc88bc38df714917f/"
+                        }
+                    },
+                    "title": "Heart Box - физические головоломки",
+                    "rating": 4.1,
+                    "developer": {
+                        "id": 488,
+                        "name": "RAD BROTHERS"
+                    },
+                    "playersCount": 2244000
+                },
+                {
+                    "id": "178305",
+                    "appID": 178305,
+                    "media": {
+                        "cover": {
+                            "prefix-url": "https://avatars.mds.yandex.net/get-games/1890793/2a00000182c62770b84e316802921590f9b4/"
+                        }
+                    },
+                    "title": "Побег Хомяка: Тюрьма",
+                    "rating": 3.8,
+                    "developer": {
+                        "id": 38566,
+                        "name": "Tufty Fluff"
+                    },
+                    "playersCount": 26000
+                },
+                {
+                    "id": "162893",
+                    "appID": 162893,
+                    "media": {
+                        "cover": {
+                            "prefix-url": "https://avatars.mds.yandex.net/get-games/2977039/2a00000178fa80e6cf0649872edf813c344b/"
+                        }
+                    },
+                    "title": "Шарики в колбах",
+                    "rating": 4.3,
+                    "developer": {
+                        "id": 102,
+                        "name": "DRA"
+                    },
+                    "playersCount": 1960000
+                },
+                {
+                    "id": "96637",
+                    "appID": 96637,
+                    "media": {
+                        "cover": {
+                            "prefix-url": "https://avatars.mds.yandex.net/get-games/1892995/2a0000016990c6328888323373dd4d05f01d/"
+                        }
+                    },
+                    "title": "Космический шутер",
+                    "rating": 4.1,
+                    "developer": {
+                        "id": 1,
+                        "name": "Hezzl"
+                    },
+                    "playersCount": 71000
+                },
+                {
+                    "id": "98905",
+                    "appID": 98905,
+                    "media": {
+                        "cover": {
+                            "prefix-url": "https://avatars.mds.yandex.net/get-games/1881957/2a00000178fe881a028f8366b20201071222/"
+                        }
+                    },
+                    "title": "Шахматные задачи",
+                    "rating": 4.2,
+                    "developer": {
+                        "id": 402,
+                        "name": "Andrew Zahalski"
+                    },
+                    "playersCount": 316000
+                },
+                {
+                    "id": "178485",
+                    "appID": 178485,
+                    "media": {
+                        "cover": {
+                            "prefix-url": "https://avatars.mds.yandex.net/get-games/1892995/2a0000017dfb593ed034baad706cd99d604e/"
+                        }
+                    },
+                    "title": "Игра Флагов: Викторина",
+                    "rating": 4.4,
+                    "developer": {
+                        "id": 38568,
+                        "name": "Maximko Online"
+                    },
+                    "playersCount": 25000
+                },
+                {
+                    "id": "183059",
+                    "appID": 183059,
+                    "media": {
+                        "cover": {
+                            "prefix-url": "https://avatars.mds.yandex.net/get-games/1892995/2a0000017e772f657b1881ef39ee3c164cc2/"
+                        }
+                    },
+                    "title": "Угадай синоним",
+                    "rating": 4.4,
+                    "developer": {
+                        "id": 1437,
+                        "name": "TARC"
+                    },
+                    "playersCount": 4000
+                },
+                {
+                    "id": "96461",
+                    "appID": 96461,
+                    "media": {
+                        "cover": {
+                            "prefix-url": "https://avatars.mds.yandex.net/get-games/1892995/2a0000016990c56c67406177456e176683de/"
+                        }
+                    },
+                    "title": "Змейка",
+                    "rating": 4,
+                    "developer": {
+                        "id": 1,
+                        "name": "Hezzl"
+                    },
+                    "playersCount": 84000
+                },
+                {
+                    "id": "187813",
+                    "appID": 187813,
+                    "media": {
+                        "cover": {
+                            "prefix-url": "https://avatars.mds.yandex.net/get-games/1881371/2a00000182b0e94a64fac6d9e32d6b976c88/"
+                        }
+                    },
+                    "title": "Запомни карты",
+                    "developer": {
+                        "id": 30428,
+                        "name": "Pavel Efremov"
+                    },
+                    "playersCount": 10
+                },
+                {
+                    "id": "193123",
+                    "appID": 193123,
+                    "media": {
+                        "cover": {
+                            "prefix-url": "https://avatars.mds.yandex.net/get-games/1881371/2a00000182350839acd3ba84795c8ede1346/"
+                        }
+                    },
+                    "title": "Угадай 99 фильмов",
+                    "rating": 4.2,
+                    "developer": {
+                        "id": 37084,
+                        "name": "Ingenium dev"
+                    },
+                    "playersCount": 2000
+                },
+                {
+                    "id": "195235",
+                    "appID": 195235,
+                    "media": {
+                        "cover": {
+                            "prefix-url": "https://avatars.mds.yandex.net/get-games/2977039/2a00000182d0051d6c47b578976ad440ebe3/"
+                        }
+                    },
+                    "title": "Бойцовский Стикмен клуб",
+                    "developer": {
+                        "id": 41365,
+                        "name": "Just A Studio"
+                    },
+                    "playersCount": 300
+                },
+                {
+                    "id": "194669",
+                    "appID": 194669,
+                    "media": {
+                        "cover": {
+                            "prefix-url": "https://avatars.mds.yandex.net/get-games/1881371/2a00000182a5d6b8bf0d2ac80162a308f2a6/"
+                        }
+                    },
+                    "title": "Бомбардировщик",
+                    "developer": {
+                        "id": 42761,
+                        "name": "SovGames"
+                    },
+                    "playersCount": 300
+                },
+                {
+                    "id": "96291",
+                    "appID": 96291,
+                    "media": {
+                        "cover": {
+                            "prefix-url": "https://avatars.mds.yandex.net/get-games/1892995/2a0000016990c4c4a3512e4ab3d60858cdc1/"
+                        }
+                    },
+                    "title": "Дрифт гонки",
+                    "rating": 3.9,
+                    "developer": {
+                        "id": 1,
+                        "name": "Hezzl"
+                    },
+                    "playersCount": 291000
+                },
+                {
+                    "id": "183422",
+                    "appID": 183422,
+                    "media": {
+                        "cover": {
+                            "prefix-url": "https://avatars.mds.yandex.net/get-games/1892995/2a00000182ac230b45cc8982af6713c4df8a/"
+                        }
+                    },
+                    "title": "Угадай Мультфильм",
+                    "rating": 3.8,
+                    "developer": {
+                        "id": 39611,
+                        "name": "VICTORYNCAt"
+                    },
+                    "playersCount": 4000
+                },
+                {
+                    "id": "96354",
+                    "appID": 96354,
+                    "media": {
+                        "cover": {
+                            "prefix-url": "https://avatars.mds.yandex.net/get-games/1892995/2a0000016990c4fe605666daff7ed94192c4/"
+                        }
+                    },
+                    "title": "Башенки",
+                    "rating": 4.3,
+                    "developer": {
+                        "id": 1,
+                        "name": "Hezzl"
+                    },
+                    "playersCount": 38000
+                },
+                {
+                    "id": "181905",
+                    "appID": 181905,
+                    "media": {
+                        "cover": {
+                            "prefix-url": "https://avatars.mds.yandex.net/get-games/1881957/2a0000017e443113c0106e8d22f980a4510c/"
+                        }
+                    },
+                    "title": "Про Танки - Угадай!",
+                    "rating": 3.9,
+                    "developer": {
+                        "id": 39611,
+                        "name": "VICTORYNCAt"
+                    },
+                    "playersCount": 11000
+                },
+                {
+                    "id": "194302",
+                    "appID": 194302,
+                    "media": {
+                        "cover": {
+                            "prefix-url": "https://avatars.mds.yandex.net/get-games/1890793/2a000001828cc0f1f1b4d2a41f96fef0ed30/"
+                        }
+                    },
+                    "title": "Выбирайка",
+                    "developer": {
+                        "id": 9872,
+                        "name": "Z-Media"
+                    },
+                    "playersCount": 400
+                },
+                {
+                    "id": "96307",
+                    "appID": 96307,
+                    "media": {
+                        "cover": {
+                            "prefix-url": "https://avatars.mds.yandex.net/get-games/1881364/2a0000016990c4d4e4db7cd1b7f235cb5701/"
+                        }
+                    },
+                    "title": "Космо Джетпак",
+                    "rating": 4.1,
+                    "developer": {
+                        "id": 1,
+                        "name": "Hezzl"
+                    },
+                    "playersCount": 22000
+                },
+                {
+                    "id": "96317",
+                    "appID": 96317,
+                    "media": {
+                        "cover": {
+                            "prefix-url": "https://avatars.mds.yandex.net/get-games/1881371/2a0000016990c4ddc6ae4f9abe85a5418c7e/"
+                        }
+                    },
+                    "title": "Беги, Ральф",
+                    "rating": 4,
+                    "developer": {
+                        "id": 1,
+                        "name": "Hezzl"
+                    },
+                    "playersCount": 47000
+                },
+                {
+                    "id": "99800",
+                    "appID": 99800,
+                    "media": {
+                        "cover": {
+                            "prefix-url": "https://avatars.mds.yandex.net/get-games/1881364/2a0000017146252359fabd1bcdc4e944e3a8/"
+                        }
+                    },
+                    "title": "Да или Нет - Викторина",
+                    "rating": 3.7,
+                    "developer": {
+                        "id": 402,
+                        "name": "Andrew Zahalski"
+                    },
+                    "playersCount": 449000
+                },
+                {
+                    "id": "186640",
+                    "appID": 186640,
+                    "media": {
+                        "cover": {
+                            "prefix-url": "https://avatars.mds.yandex.net/get-games/3006389/2a000001805d967141e1bdf744a3af317e39/"
+                        }
+                    },
+                    "title": "Катастрофа неизбежна",
+                    "developer": {
+                        "id": 728,
+                        "name": "Mihail-oc"
+                    },
+                    "playersCount": 2000
+                },
+                {
+                    "id": "151572",
+                    "appID": 151572,
+                    "media": {
+                        "cover": {
+                            "prefix-url": "https://avatars.mds.yandex.net/get-games/1881371/2a00000177bafa51ee7ec14bd879076b06b1/"
+                        }
+                    },
+                    "title": "Доставь Пиццу!",
+                    "rating": 4,
+                    "developer": {
+                        "id": 390,
+                        "name": "truelisgames"
+                    },
+                    "playersCount": 106000
+                },
+                {
+                    "id": "195343",
+                    "appID": 195343,
+                    "media": {
+                        "cover": {
+                            "prefix-url": "https://avatars.mds.yandex.net/get-games/3006389/2a00000182d9d31fac69feed04f40152b554/"
+                        }
+                    },
+                    "title": "Путешествие на воздушном шаре",
+                    "developer": {
+                        "id": 42761,
+                        "name": "SovGames"
+                    },
+                    "playersCount": 1
+                },
+                {
+                    "id": "181105",
+                    "appID": 181105,
+                    "media": {
+                        "cover": {
+                            "prefix-url": "https://avatars.mds.yandex.net/get-games/1890793/2a0000017df0a9dcc971eedefe75b66afdc4/"
+                        }
+                    },
+                    "title": "Игра в Кальмара - Викторина",
+                    "rating": 3.2,
+                    "developer": {
+                        "id": 39611,
+                        "name": "VICTORYNCAt"
+                    },
+                    "playersCount": 17000
+                },
+                {
+                    "id": "195014",
+                    "appID": 195014,
+                    "media": {
+                        "cover": {
+                            "prefix-url": "https://avatars.mds.yandex.net/get-games/1892995/2a00000182cff1ce35917203b7cbfdb54d4e/"
+                        }
+                    },
+                    "title": "Кристальная змейка",
+                    "developer": {
+                        "id": 37084,
+                        "name": "Ingenium dev"
+                    },
+                    "playersCount": 1
+                },
+                {
+                    "id": "189113",
+                    "appID": 189113,
+                    "media": {
+                        "cover": {
+                            "prefix-url": "https://avatars.mds.yandex.net/get-games/1890793/2a000001812ee14ce84e8ea01a5ff27154a4/"
+                        }
+                    },
+                    "title": "Викторина: Правда или Ложь",
+                    "rating": 4.3,
+                    "developer": {
+                        "id": 19368,
+                        "name": "Orchid Studio"
+                    },
+                    "playersCount": 2000
+                },
+                {
+                    "id": "193424",
+                    "appID": 193424,
+                    "media": {
+                        "cover": {
+                            "prefix-url": "https://avatars.mds.yandex.net/get-games/3006389/2a00000182818f165856a87f68a3600708dc/"
+                        }
+                    },
+                    "title": "Тест по Гарри Поттеру",
+                    "developer": {
+                        "id": 37084,
+                        "name": "Ingenium dev"
+                    },
+                    "playersCount": 1
+                },
+                {
+                    "id": "194373",
+                    "appID": 194373,
+                    "media": {
+                        "cover": {
+                            "prefix-url": "https://avatars.mds.yandex.net/get-games/2977039/2a0000018295d069c246deff52ac125b4d5f/"
+                        }
+                    },
+                    "title": "Викторина Звездные войны",
+                    "developer": {
+                        "id": 37084,
+                        "name": "Ingenium dev"
+                    },
+                    "playersCount": 1
+                },
+                {
+                    "id": "194591",
+                    "appID": 194591,
+                    "media": {
+                        "cover": {
+                            "prefix-url": "https://avatars.mds.yandex.net/get-games/3006389/2a00000182b70b04aed1b8d10fb24e015f75/"
+                        }
+                    },
+                    "title": "Викторина: Войны клонов",
+                    "developer": {
+                        "id": 37084,
+                        "name": "Ingenium dev"
+                    },
+                    "playersCount": 1
+                },
+                {
+                    "id": "186292",
+                    "appID": 186292,
+                    "media": {
+                        "cover": {
+                            "prefix-url": "https://avatars.mds.yandex.net/get-games/2977039/2a0000017fbafb1699c50a0228cadfeeb33d/"
+                        }
+                    },
+                    "title": "Капельки",
+                    "rating": 3.7,
+                    "developer": {
+                        "id": 390,
+                        "name": "truelisgames"
+                    },
+                    "playersCount": 24000
+                },
+                {
+                    "id": "189149",
+                    "appID": 189149,
+                    "media": {
+                        "cover": {
+                            "prefix-url": "https://avatars.mds.yandex.net/get-games/1890793/2a00000182d425573fee9ca635607da1398c/"
+                        }
+                    },
+                    "title": "Красный Шарик Убегает",
+                    "developer": {
+                        "id": 19894,
+                        "name": "JerryFrozen"
+                    },
+                    "playersCount": 10
+                },
+                {
+                    "id": "183660",
+                    "appID": 183660,
+                    "media": {
+                        "cover": {
+                            "prefix-url": "https://avatars.mds.yandex.net/get-games/2977039/2a0000017eba63f2a090ed6004abdce8750f/"
+                        }
+                    },
+                    "title": "Угадай Про Любовь!",
+                    "rating": 3.8,
+                    "developer": {
+                        "id": 39611,
+                        "name": "VICTORYNCAt"
+                    },
+                    "playersCount": 5000
+                },
+                {
+                    "id": "195283",
+                    "appID": 195283,
+                    "media": {
+                        "cover": {
+                            "prefix-url": "https://avatars.mds.yandex.net/get-games/1881371/2a00000182f02cddf40f975f7eb28c50e4ed/"
+                        }
+                    },
+                    "title": "Быстрый и Толстый",
+                    "developer": {
+                        "id": 446,
+                        "name": "NorthLabGames"
+                    },
+                    "playersCount": 8
+                },
+                {
+                    "id": "177708",
+                    "appID": 177708,
+                    "media": {
+                        "cover": {
+                            "prefix-url": "https://avatars.mds.yandex.net/get-games/3006389/2a0000017c64b1a42b4ee2e139a9b75ef6dc/"
+                        }
+                    },
+                    "title": "Бегущий по ветке",
+                    "rating": 3.7,
+                    "developer": {
+                        "id": 36617,
+                        "name": "XCreative"
+                    },
+                    "playersCount": 19000
+                },
+                {
+                    "id": "195908",
+                    "appID": 195908,
+                    "media": {
+                        "cover": {
+                            "prefix-url": "https://avatars.mds.yandex.net/get-games/3006389/2a000001830be06db345ba12046a11165b0c/"
+                        }
+                    },
+                    "title": "Викторина: Властелин Колец",
+                    "developer": {
+                        "id": 37084,
+                        "name": "Ingenium dev"
+                    },
+                    "playersCount": 1
+                },
+                {
+                    "id": "195909",
+                    "appID": 195909,
+                    "media": {
+                        "cover": {
+                            "prefix-url": "https://avatars.mds.yandex.net/get-games/1881371/2a000001830e82c2b5b831c38447f3da6ab7/"
+                        }
+                    },
+                    "title": "Викторина: Марвел",
+                    "developer": {
+                        "id": 37084,
+                        "name": "Ingenium dev"
+                    },
+                    "playersCount": 1
+                },
+                {
+                    "id": "195515",
+                    "appID": 195515,
+                    "media": {
+                        "cover": {
+                            "prefix-url": "https://avatars.mds.yandex.net/get-games/1881957/2a000001830bcdb37ae1b5b04c67330fe60f/"
+                        }
+                    },
+                    "title": "Викторина: Доктор кто",
+                    "developer": {
+                        "id": 37084,
+                        "name": "Ingenium dev"
+                    },
+                    "playersCount": 1
+                },
+                {
+                    "id": "195774",
+                    "appID": 195774,
+                    "media": {
+                        "cover": {
+                            "prefix-url": "https://avatars.mds.yandex.net/get-games/3006389/2a00000182ff3d9c53a51e3807f654ce3c8b/"
+                        }
+                    },
+                    "title": "Змейка в лабиринте",
+                    "developer": {
+                        "id": 25165,
+                        "name": "Irridian"
+                    },
+                    "playersCount": 10
+                }
+            ]
+        }
+    }
+}
